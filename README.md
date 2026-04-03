@@ -84,7 +84,7 @@ SuperCovo tailors your resume and cover letter to any job description in under 6
 
 ## Status
 
-Live with paying subscribers. Chrome extension published on the Chrome Web Store.
+Live with subscribers. Chrome extension published on the Chrome Web Store.
 
 ---
 
